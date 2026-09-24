@@ -9,8 +9,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2c5364&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=2c5364)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20%2F%20BA%20%2F%20ML%20Roles-brightgreen?style=flat-square)
 
 </div>
@@ -145,23 +143,13 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:datawithjev@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/data_with_jev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nagaraj-jeeva-45a9062a2)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagarajjeeva99@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fwww.instagram.com%2Fdatawithjev%3Fstkn%3DbG85Z3FmYnhldm9m%26utm_source%3Dqr&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-MjNkMzNkMmEtODg5My00ZjU1LWIyMjUtMmRiNGZmNGJmMmJhXzEwMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BwZ0EV58dQyqRZ0lywNrWVA%3D%3D)
 
 <br/>
 
