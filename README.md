@@ -147,7 +147,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fwww.instagram.com%2Fdatawithjev%3Fstkn%3DbG85Z3FmYnhldm9m%26utm_source%3Dqr&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-MjNkMzNkMmEtODg5My00ZjU1LWIyMjUtMmRiNGZmNGJmMmJhXzEwMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BwZ0EV58dQyqRZ0lywNrWVA%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nagaraj-jeeva-45a9062a2)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagarajjeeva99@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/datawithjev?stkn=bG85Z3FmYnhldm9m&utm_source=qr)
 
